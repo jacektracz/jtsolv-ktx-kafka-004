@@ -1,6 +1,8 @@
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/config/KafkaConfig.java
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/controller/EventController.java
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/producer/KafkaAvroProducer.java
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/KafkaSchemaRegistryApplication.java
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/consumer/KafkaAvroConsumer.java
-/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/javatechie/dto/Employee.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/producer/KafkaAvroProducer.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/controller/EventController.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/dto/Employee.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/KafkaSchemaRegistryApplication.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/config/KafkaConfig.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/consumer/KafkaAvroConsumer.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/schemaregister/SchemaRegisterSevice.java
+/lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro/src/main/java/com/jtsolv/dto/User.java

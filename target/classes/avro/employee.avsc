@@ -1,5 +1,5 @@
 {
-  "namespace": "com.javatechie.dto",
+  "namespace": "com.jtsolv.dto",
   "type": "record",
   "name": "Employee",
   "fields": [

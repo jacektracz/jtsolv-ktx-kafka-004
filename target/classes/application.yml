@@ -1,5 +1,5 @@
 topic:
-  name: javatechie-avro
+  name: jtsolv-avro
 
 server:
   port: 8181
@@ -16,7 +16,7 @@ spring:
           registry:
             url: "http://127.0.0.1:8081"
     consumer:
-      group-id: "javatechie-new"
+      group-id: "jtsolv-new"
       keyDeserializer: "org.apache.kafka.common.serialization.StringDeserializer"
       valueDeserializer: "io.confluent.kafka.serializers.KafkaAvroDeserializer"
       autoOffsetReset: "earliest"

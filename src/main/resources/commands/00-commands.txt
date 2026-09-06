@@ -1,0 +1,7 @@
+function exec_example_avro() {
+  cd /lkd/2024-kafka-avro-jtsolv/app/2024-jtsolv-kafka-avro
+  sudo docker-compose up --remove-orphans;
+
+  http://localhost:9021/clusters
+  http://localhost:8181/create-events?id=2&topic=t-1
+}
